@@ -20,7 +20,10 @@ Miniaturas: Jägermeister, Absolut (Vanilia, Peach, Raspberri, Original), Chivas
 | foto-12 | Arte story "Chegou o lote" | já postada |
 | foto-13, foto-14 | Miniaturas na grama (foto crua) | story/feed miniaturas |
 | foto-15 | Angélica Zapata na grama (crua) | story/feed rótulo |
-| (Gran Sombrero cru = mesma da foto-06) | | |
+| foto-16 | Arte story "Já garantiu o vinho do fim de semana?" com faixa R$ 80 a R$ 200 | já postada — referência de faixa de preço |
+| foto-17 a foto-20, foto-23 | Fotos cruas: Rutini, La Linda, Luigi Bosca, D.V. Catena, La Linda Rosé na grama | feed/story rótulo, carrossel, montagens |
+| foto-21 | 7 garrafas deitadas na horizontal (crua) | feed/carrossel capa |
+| foto-22 | 7 garrafas em pé, lado a lado (crua) | feed/story lote |
 
 ## Vídeos
 
@@ -30,3 +33,12 @@ Miniaturas: Jägermeister, Absolut (Vanilia, Peach, Raspberri, Original), Chivas
 | video-02-EDITADO-chegou-o-lote | 15 s | Story editado "Chegou o lote" |
 | video-03-miniaturas-na-grama | 23 s | Câmera passando pelas miniaturas |
 | video-04-gran-sombrero-na-mao | 6 s | Gran Sombrero na mão, ao ar livre |
+| video-05-loja-garimpo-foz-corredor-curto | 1,5 s | Corredor de loja de vinhos (garimpo em Foz) — só como corte rápido |
+| video-06-EDITADO-stories-completo-servindo-garimpo | 27 s | Story editado: vinho sendo servido "do sul, com cuidado" + "Garimpado caixa por caixa em Foz" + CTA |
+| video-07-rotulos-na-grama-panoramica | 27 s | Câmera passando pelos rótulos na grama |
+| video-08-garimpo-loja-adega-altavista | 47 s | Garimpo na loja: estantes, adega, Altavista em destaque — bastidor de curadoria |
+| video-09-loja-garimpo-caixas-corredor | 10 s | Corredor com caixas de vinho (garimpo) |
+
+Contatos: WhatsApp (41) 98477-2510 · @australco.br · entrega em Curitiba.
+Preço PERMITIDO na Austral (faixa já usada: R$ 80 a R$ 200). Preço individual de rótulo só se a dona informar — nunca inventar.
+Banco de imagens: o ambiente não acessa Unsplash/Pexels; usar montagens com o material da base (Pillow/ffmpeg) e fundos gráficos da marca.
