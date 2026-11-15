@@ -12,3 +12,4 @@
 | 2026-11-14 12h | Story imagem | foto-15 + Unsplash rosé | stories/story-2026-11-14-1200-tinto-ou-rose.jpg | 18232477132329836 |
 | 2026-11-14 19h30 | Story vídeo | video-07 + Unsplash pizza + card encomenda | stories/story-2026-11-14-1930-pizza-malbec.mp4 | 18230625760329212 |
 | 2026-11-15 12h | Story imagem | foto-05 + foto-06 (recortes) + Unsplash massa | stories/story-2026-11-15-1200-macarronada-a-ou-b.jpg | 18034282841871479 |
+| 2026-11-15 19h30 | Story vídeo | foto-13 + cards encomenda presente | stories/story-2026-11-15-1930-miniaturas-presente.mp4 | 18085128629710181 |
