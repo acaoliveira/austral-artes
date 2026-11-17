@@ -15,3 +15,4 @@
 | 2026-11-15 19h30 | Story vídeo | foto-13 + cards encomenda presente | stories/story-2026-11-15-1930-miniaturas-presente.mp4 | 18085128629710181 |
 | 2026-11-16 12h | Story imagem | Unsplash taça+uvas | stories/story-2026-11-16-1200-sobrou-vinho.jpg | 18445465468183460 |
 | 2026-11-16 19h30 | Story vídeo | foto-07 + foto-08 + Unsplash bife/taça | stories/story-2026-11-16-1930-corte-cabernet-malbec.mp4 | 18115016951612785 |
+| 2026-11-17 12h | Story imagem | Unsplash uvas no pé | stories/story-2026-11-17-1200-adivinha-a-uva.jpg | 18129286519847195 |
