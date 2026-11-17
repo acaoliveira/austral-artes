@@ -17,3 +17,4 @@
 | 2026-11-16 19h30 | Story vídeo | foto-07 + foto-08 + Unsplash bife/taça | stories/story-2026-11-16-1930-corte-cabernet-malbec.mp4 | 18115016951612785 |
 | 2026-11-17 12h | Story imagem | Unsplash uvas no pé | stories/story-2026-11-17-1200-adivinha-a-uva.jpg | 18129286519847195 |
 | 2026-11-17 19h | Carrossel 6 | Unsplash uvas/vinhedo/taça + tipográficos | feed/feed-2026-11-17-malbec-1..6.jpg | 18170702854487102 |
+| 2026-11-17 19h30 | Story vídeo | video-06 (servindo) + Unsplash taças + cards feriado | stories/story-2026-11-17-1930-feriado-3-garrafas.mp4 | 18137408947738618 |
