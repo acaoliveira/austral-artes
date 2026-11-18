@@ -21,9 +21,9 @@ Miniaturas: Jägermeister, Absolut (Vanilia, Peach, Raspberri, Original), Chivas
 | foto-13, foto-14 | Miniaturas na grama (foto crua) | story/feed miniaturas |
 | foto-15 | Angélica Zapata na grama (crua) | story/feed rótulo |
 | foto-16 | Arte story "Já garantiu o vinho do fim de semana?" com faixa R$ 80 a R$ 200 | já postada — referência de faixa de preço |
-| foto-17 a foto-20, foto-23 | Fotos cruas: Rutini, La Linda, Luigi Bosca, D.V. Catena, La Linda Rosé na grama | feed/story rótulo, carrossel, montagens |
+| foto-17 a foto-20, foto-22 | Fotos cruas: Rutini, La Linda, Luigi Bosca, D.V. Catena (17–20) e La Linda Rosé (22) na grama | feed/story rótulo, carrossel, montagens |
 | foto-21 | 7 garrafas deitadas na horizontal (crua) | feed/carrossel capa |
-| foto-22 | 7 garrafas em pé, lado a lado (crua) | feed/story lote |
+| foto-23 | 7 garrafas em pé, lado a lado (crua) | feed/story lote |
 
 ## Vídeos
 
