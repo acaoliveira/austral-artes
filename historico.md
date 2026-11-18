@@ -19,3 +19,4 @@
 | 2026-11-17 19h | Carrossel 6 | Unsplash uvas/vinhedo/taça + tipográficos | feed/feed-2026-11-17-malbec-1..6.jpg | 18170702854487102 |
 | 2026-11-17 19h30 | Story vídeo | video-06 (servindo) + Unsplash taças + cards feriado | stories/story-2026-11-17-1930-feriado-3-garrafas.mp4 | 18137408947738618 |
 | 2026-11-18 12h | Story imagem | foto-22/19/18 (recortes) + Unsplash porção de boteco | stories/story-2026-11-18-1200-boteco-pede-vinho.jpg | 18092357405258934 |
+| 2026-11-18 19h30 | Story vídeo | video-02 (recorte) + card encomenda presente | stories/story-2026-11-18-1930-amigo-secreto.mp4 | 17923483131526000 |
