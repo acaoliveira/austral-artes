@@ -23,3 +23,4 @@
 | 2026-11-19 12h | Story imagem | foto-17 (recorte Rutini) + Unsplash chocolate | stories/story-2026-11-19-1200-chocolate-isto-ou-aquilo.jpg | 18119883289803727 |
 | 2026-11-19 18h | Reels | Unsplash carne/costela + video-04/07/01 + card encomenda | reels/reels-2026-11-19-churrasco-do-feriado.mp4 | 18131809792849143 |
 | 2026-11-19 19h | Carrossel 6 | foto-23 + Unsplash tábua/queijos/figo + tipográficos | feed/feed-2026-11-19-tabua-1..6.jpg | 18099592850132981 |
+| 2026-11-19 19h30 | Story imagem | Unsplash queijos maturados + enquete | stories/story-2026-11-19-1930-enquete-tabua.jpg | 18101835734666021 |
