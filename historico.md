@@ -21,3 +21,4 @@
 | 2026-11-18 12h | Story imagem | foto-22/19/18 (recortes) + Unsplash porção de boteco | stories/story-2026-11-18-1200-boteco-pede-vinho.jpg | 18092357405258934 |
 | 2026-11-18 19h30 | Story vídeo | video-02 (recorte) + card encomenda presente | stories/story-2026-11-18-1930-amigo-secreto.mp4 | 17923483131526000 |
 | 2026-11-19 12h | Story imagem | foto-17 (recorte Rutini) + Unsplash chocolate | stories/story-2026-11-19-1200-chocolate-isto-ou-aquilo.jpg | 18119883289803727 |
+| 2026-11-19 18h | Reels | Unsplash carne/costela + video-04/07/01 + card encomenda | reels/reels-2026-11-19-churrasco-do-feriado.mp4 | 18131809792849143 |
