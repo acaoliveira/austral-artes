@@ -1,6 +1,6 @@
 # Histórico de publicações — @australco.br
 
-> **Preparado em 20/11 (aguardando aprovação):** 21/11 feed 11h30 `feed/feed-2026-11-21-encomenda-caixas.jpg` + story 12h `stories/story-2026-11-21-1200-encomenda-caixas.jpg` (pedido da dona: encomenda de caixas). A rotina de 21/11 só precisa criar o story das 19h30.
+> **Preparado em 20/11 (APROVADO e já agendado nesta sessão — não recriar nem publicar de novo):** 21/11 feed 11h30 `feed/feed-2026-11-21-encomenda-caixas.jpg` + story 12h `stories/story-2026-11-21-1200-encomenda-caixas.jpg` (pedido da dona: encomenda de caixas). A rotina de 21/11 só precisa criar o story das 19h30.
 
 | Data | Formato | Arquivo base | Arte publicada | Media id |
 |---|---|---|---|---|
