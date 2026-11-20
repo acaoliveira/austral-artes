@@ -26,3 +26,4 @@
 | 2026-11-19 18h | Reels | Unsplash carne/costela + video-04/07/01 + card encomenda | reels/reels-2026-11-19-churrasco-do-feriado.mp4 | 18131809792849143 |
 | 2026-11-19 19h | Carrossel 6 | foto-23 + Unsplash tábua/queijos/figo + tipográficos | feed/feed-2026-11-19-tabua-1..6.jpg | 18099592850132981 |
 | 2026-11-19 19h30 | Story imagem | Unsplash queijos maturados + enquete | stories/story-2026-11-19-1930-enquete-tabua.jpg | 18101835734666021 |
+| 2026-11-20 12h | Story imagem | foto-21 (recortes La Linda/Sombrero) + Unsplash hambúrguer | stories/story-2026-11-20-1200-hamburguer-a-ou-b.jpg | 17901995910678157 |
