@@ -1,7 +1,5 @@
 # Histórico de publicações — @australco.br
 
-> **Preparado em 20/11 (APROVADO e já agendado nesta sessão — não recriar nem publicar de novo):** 21/11 feed 11h30 `feed/feed-2026-11-21-encomenda-caixas.jpg` + story 12h `stories/story-2026-11-21-1200-encomenda-caixas.jpg` (pedido da dona: encomenda de caixas). A rotina de 21/11 só precisa criar o story das 19h30.
-
 | Data | Formato | Arquivo base | Arte publicada | Media id |
 |---|---|---|---|---|
 | 2026-11-12 12h | Story imagem | foto-17 + Unsplash vinhedo | stories/story-2026-11-12-1200-verdade-ou-mito.jpg | 18128258662904665 |
@@ -29,3 +27,4 @@
 | 2026-11-20 12h | Story imagem | foto-21 (recortes La Linda/Sombrero) + Unsplash hambúrguer | stories/story-2026-11-20-1200-hamburguer-a-ou-b.jpg | 17901995910678157 |
 | 2026-11-20 19h30 | Story vídeo | video-09 + video-05 + foto-20 + card encomenda | stories/story-2026-11-20-1930-garimpo-fim-de-semana.mp4 | 18105601529637859 |
 | 2026-11-21 11h30 | Feed imagem | Unsplash taça servida + composição gráfica | feed/feed-2026-11-21-encomenda-caixas.jpg | 18078356204471536 |
+| 2026-11-21 12h | Story imagem | Unsplash taça servida + composição gráfica | stories/story-2026-11-21-1200-encomenda-caixas.jpg | 18115172612183193 |
