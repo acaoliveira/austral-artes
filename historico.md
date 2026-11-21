@@ -28,3 +28,4 @@
 | 2026-11-19 19h30 | Story imagem | Unsplash queijos maturados + enquete | stories/story-2026-11-19-1930-enquete-tabua.jpg | 18101835734666021 |
 | 2026-11-20 12h | Story imagem | foto-21 (recortes La Linda/Sombrero) + Unsplash hambúrguer | stories/story-2026-11-20-1200-hamburguer-a-ou-b.jpg | 17901995910678157 |
 | 2026-11-20 19h30 | Story vídeo | video-09 + video-05 + foto-20 + card encomenda | stories/story-2026-11-20-1930-garimpo-fim-de-semana.mp4 | 18105601529637859 |
+| 2026-11-21 11h30 | Feed imagem | Unsplash taça servida + composição gráfica | feed/feed-2026-11-21-encomenda-caixas.jpg | 18078356204471536 |
