@@ -29,3 +29,4 @@
 | 2026-11-21 11h30 | Feed imagem | Unsplash taça servida + composição gráfica | feed/feed-2026-11-21-encomenda-caixas.jpg | 18078356204471536 |
 | 2026-11-21 12h | Story imagem | Unsplash taça servida + composição gráfica | stories/story-2026-11-21-1200-encomenda-caixas.jpg | 18115172612183193 |
 | 2026-11-21 19h30 | Story vídeo | video-01 + foto-21 (recorte Angélica Zapata) + cards decantar/enquete | stories/story-2026-11-21-1930-precisa-decantar.mp4 | 18100707896665099 |
+| 2026-11-22 12h | Story imagem | foto-04/15/05 (recortes) + Unsplash frango/carne/lasanha | stories/story-2026-11-22-1200-almoco-de-domingo.jpg | 18500130832105831 |
