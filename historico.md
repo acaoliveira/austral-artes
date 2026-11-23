@@ -31,3 +31,4 @@
 | 2026-11-21 19h30 | Story vídeo | video-01 + foto-21 (recorte Angélica Zapata) + cards decantar/enquete | stories/story-2026-11-21-1930-precisa-decantar.mp4 | 18100707896665099 |
 | 2026-11-22 12h | Story imagem | foto-04/15/05 (recortes) + Unsplash frango/carne/lasanha | stories/story-2026-11-22-1200-almoco-de-domingo.jpg | 18500130832105831 |
 | 2026-11-22 19h30 | Story vídeo | Unsplash pipoca + foto-09 (recorte Luigi Bosca) + video-03 + card encomenda | stories/story-2026-11-22-1930-domingo-de-filme.mp4 | 18138172048710075 |
+| 2026-11-23 12h | Story imagem | foto-06 + foto-10 (recortes) | stories/story-2026-11-23-1200-quiz-safra.jpg | 18236081818323698 |
