@@ -34,3 +34,4 @@
 | 2026-11-23 12h | Story imagem | foto-06 + foto-10 (recortes) | stories/story-2026-11-23-1200-quiz-safra.jpg | 18236081818323698 |
 | 2026-11-23 19h30 | Story vídeo | foto-06 + foto-10 (recortes) + video-08 + card encomenda | stories/story-2026-11-23-1930-resposta-safra-encomenda.mp4 | 18060381791802431 |
 | 2026-11-24 12h | Story imagem | Unsplash taça no vinhedo | stories/story-2026-11-24-1200-quiz-tacas.jpg | 18027865973930596 |
+| 2026-11-24 19h | Carrossel 5 | Unsplash presentes + fotos 15/14/13 | feed/feed-2026-11-24-presentes-1..5.jpg | 18198248746394207 |
