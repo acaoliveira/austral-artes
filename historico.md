@@ -36,3 +36,4 @@
 | 2026-11-24 12h | Story imagem | Unsplash taça no vinhedo | stories/story-2026-11-24-1200-quiz-tacas.jpg | 18027865973930596 |
 | 2026-11-24 19h | Carrossel 5 | Unsplash presentes + fotos 15/14/13 | feed/feed-2026-11-24-presentes-1..5.jpg | 18198248746394207 |
 | 2026-11-24 19h30 | Story vídeo | video-06 (servindo) + Unsplash luzes de Natal + foto-15 + card encomenda | stories/story-2026-11-24-1930-resposta-tacas-ceia.mp4 | 18650075359060620 |
+| 2026-11-25 12h | Story imagem | foto-22 (La Linda Rosé) | stories/story-2026-11-25-1200-quiz-rose-gelado.jpg | 18479538040140332 |
