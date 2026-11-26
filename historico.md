@@ -38,3 +38,4 @@
 | 2026-11-24 19h30 | Story vídeo | video-06 (servindo) + Unsplash luzes de Natal + foto-15 + card encomenda | stories/story-2026-11-24-1930-resposta-tacas-ceia.mp4 | 18650075359060620 |
 | 2026-11-25 12h | Story imagem | foto-22 (La Linda Rosé) | stories/story-2026-11-25-1200-quiz-rose-gelado.jpg | 18479538040140332 |
 | 2026-11-25 19h30 | Story vídeo | Unsplash taças rosé/condensação/taças no barril + foto-18 (La Linda Malbec) + card encomenda | stories/story-2026-11-25-1930-resposta-rose-gelado.mp4 | 18019852244958905 |
+| 2026-11-26 12h | Story imagem | Unsplash taças no barril + composição gráfica | stories/story-2026-11-26-1200-quiz-guardar.jpg | 18006369743809008 |
