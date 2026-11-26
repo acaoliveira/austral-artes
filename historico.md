@@ -39,3 +39,4 @@
 | 2026-11-25 12h | Story imagem | foto-22 (La Linda Rosé) | stories/story-2026-11-25-1200-quiz-rose-gelado.jpg | 18479538040140332 |
 | 2026-11-25 19h30 | Story vídeo | Unsplash taças rosé/condensação/taças no barril + foto-18 (La Linda Malbec) + card encomenda | stories/story-2026-11-25-1930-resposta-rose-gelado.mp4 | 18019852244958905 |
 | 2026-11-26 12h | Story imagem | Unsplash taças no barril + composição gráfica | stories/story-2026-11-26-1200-quiz-guardar.jpg | 18006369743809008 |
+| 2026-11-26 18h | Story vídeo | video-07 + video-04 + foto-08 (recorte D.V. Catena) + foto-17 + Unsplash brinde + card encomenda confra | stories/story-2026-11-26-1800-vinho-da-confra.mp4 | 18361237309217940 |
