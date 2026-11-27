@@ -42,3 +42,4 @@
 | 2026-11-26 18h | Story vídeo | video-07 + video-04 + foto-08 (recorte D.V. Catena) + foto-17 + Unsplash brinde + card encomenda confra | stories/story-2026-11-26-1800-vinho-da-confra.mp4 | 18361237309217940 |
 | 2026-11-26 19h | Carrossel 6 | Unsplash taça com uvas + ícones gráficos + foto-23 | feed/feed-2026-11-26-guardar-1..6.jpg | 18504165799110032 |
 | 2026-11-26 19h30 | Story vídeo | Unsplash taças pôr do sol + video-07 + card encomenda fim de semana | stories/story-2026-11-26-1930-resposta-guardar-encomenda.mp4 | 18113204843351928 |
+| 2026-11-27 12h | Story imagem | foto-19 (Luigi Bosca) | stories/story-2026-11-27-1200-mito-vinho-caro.jpg | 18120319289007401 |
