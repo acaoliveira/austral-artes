@@ -44,3 +44,4 @@
 | 2026-11-26 19h30 | Story vídeo | Unsplash taças pôr do sol + video-07 + card encomenda fim de semana | stories/story-2026-11-26-1930-resposta-guardar-encomenda.mp4 | 18113204843351928 |
 | 2026-11-27 12h | Story imagem | foto-19 (Luigi Bosca) | stories/story-2026-11-27-1200-mito-vinho-caro.jpg | 18120319289007401 |
 | 2026-11-27 18h | Reels | Unsplash taça/uvas/tanques/vinhedo + video-09 + foto-21 + card R$ 80 a R$ 200 | reels/reels-2026-11-27-3-mitos-do-vinho.mp4 | 18147781933607761 |
+| 2026-11-27 19h30 | Story vídeo | video-02 (recorte) + foto-20 (D.V. Catena) + card encomenda fim de semana | stories/story-2026-11-27-1930-resposta-mito-encomenda.mp4 | 18134957350884653 |
