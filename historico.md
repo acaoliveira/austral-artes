@@ -45,3 +45,4 @@
 | 2026-11-27 12h | Story imagem | foto-19 (Luigi Bosca) | stories/story-2026-11-27-1200-mito-vinho-caro.jpg | 18120319289007401 |
 | 2026-11-27 18h | Reels | Unsplash taça/uvas/tanques/vinhedo + video-09 + foto-21 + card R$ 80 a R$ 200 | reels/reels-2026-11-27-3-mitos-do-vinho.mp4 | 18147781933607761 |
 | 2026-11-27 19h30 | Story vídeo | video-02 (recorte) + foto-20 (D.V. Catena) + card encomenda fim de semana | stories/story-2026-11-27-1930-resposta-mito-encomenda.mp4 | 18134957350884653 |
+| 2026-11-28 11h30 | Carrossel 6 | Unsplash churrasco/cortes + video-01 frame (Gran Sombrero) + foto-07 recorte (Rutini) | feed/feed-2026-11-28-churrasco-1..6.jpg | 17958541623291670 |
